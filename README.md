@@ -34,3 +34,20 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+---
+
+## Adding Power BI
+- KPI
+- Map
+- Bar
+- Pie
+- Text
+- Slice
+- Background
+ 
+
+
+
+
+
