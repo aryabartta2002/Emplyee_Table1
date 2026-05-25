@@ -44,7 +44,7 @@ import seaborn as sns
 - Pie
 - Text
 - Slice
-- Background 
+- Dashboard Design
  
 
 
