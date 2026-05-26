@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on employee data to identify trends, correlations, and business insights.
+Added Data Dictionary for better understanding of attributes/columns present in dataset. 
 
 ---
 
